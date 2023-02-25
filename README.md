@@ -2,7 +2,7 @@
 
 <h2 align="left">
 
-Hi 👋! My name is Dip Sarker Niloy from Bangladesh</h2>
+Hi 👋! I am Dip Sarker Niloy from Bangladesh</h2>
 
 ###
 
