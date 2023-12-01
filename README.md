@@ -2,7 +2,7 @@
 
 <h2 align="left">
 
-Hi 👋! I am Dip Sarker Niloy from Bangladesh</h2>
+Hi 👋!, I am Dip Sarker, Currently, I am pursuing a degree in Computer Science and Engineering.</h2>
 
 ###
 
